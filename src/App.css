@@ -1,0 +1,14 @@
+.invalid {
+  border:1px solid red !important;
+ }
+ input, textarea {
+  outline: none !important;
+  box-shadow: none !important; 
+}
+.form-group, Province {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.form-group, District {
+  flex-direction: column;
+}
